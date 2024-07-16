@@ -1,6 +1,8 @@
 # go-vision-api
 
-API de Extração de Dados de Documentos Esta API em Go utiliza a Google Cloud Vision API para extrair texto de diferentes tipos de documentos, como RG, CNH e passaporte.
+API de Extração de Dados de Documentos 
+
+Esta API em Go utiliza a Google Cloud Vision API para extrair texto de diferentes tipos de documentos, como RG, CNH e passaporte.
 
 Foram criados endpoints para cada tipo de documento suportado, permitindo a extração das informações a partir de imagens.
 
